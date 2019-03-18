@@ -1,4 +1,4 @@
-Supervised Learning using SVMs (PEGASOS, AdaGrad) and Neural Networks on RCV1 dataset and on predicting CCAT topics.
+Supervised Learning using SVMs (PEGASOS), AdaGrad, and Neural Networks on RCV1 dataset and on predicting CCAT topics.
 
 PEGASOS is described here:
 https://ttic.uchicago.edu/~nati/Publications/PegasosMPB.pdf
